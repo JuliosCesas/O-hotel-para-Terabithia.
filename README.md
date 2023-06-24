@@ -1,6 +1,6 @@
 # O-hotel-para-Terabithia.
 
-Uma simulação simples em HTML e JavaScript de um de hotel.
+Uma simulação simples em HTML e JavaScript de um  hotel.
 
 ## Descrição
 
