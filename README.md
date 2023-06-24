@@ -26,7 +26,7 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 
 1. Faça o clone deste repositório em sua máquina local.
 2. Navegue até o diretório do projeto.
-3. Abra o arquivo `index.html` em seu navegador da web.
+3. Abra o arquivo `Projeto Hotel.html` em seu navegador da web.
 
 ## Uso
 
