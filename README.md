@@ -4,7 +4,7 @@ Uma simulação simples em HTML e JavaScript de um  hotel.
 
 ## Descrição
 
-Este projeto é uma simulação de reserva de quartos de hotel. Ele permite que os usuários simulem reservas de quartos, Façam cadastro de Hóspedes, façam reservas de eventos, entre outras funcionalidades.
+Este projeto é uma simulação de um hotel. Ele permite que os usuários simulem reservas de quartos, Façam cadastro de Hóspedes, façam reservas de eventos, entre outras funcionalidades.
 
 ## Funcionalidades
 
