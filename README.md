@@ -33,4 +33,13 @@ Antes de executar o projeto, certifique-se de ter os seguintes requisitos instal
 Ao abrir o arquivo `Projeto Hotel.html`, você será direcionado para a página principal do projeto. 
 
 
-
+ ## 🖥️ Tecnologias utilizadas:<br>
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  </div>
+<br>
